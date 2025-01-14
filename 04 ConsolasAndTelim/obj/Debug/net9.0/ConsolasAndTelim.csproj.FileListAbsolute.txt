@@ -1,0 +1,14 @@
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.exe
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.deps.json
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.runtimeconfig.json
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfoInputs.cache
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfo.cs
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.csproj.CoreCompileInputs.cache
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\refint\ConsolasAndTelim.dll
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.genruntimeconfig.cache
+C:\Users\xaxa\A Player's Guide\ConsolasAndTelim\obj\Debug\net9.0\ref\ConsolasAndTelim.dll
