@@ -1,0 +1,14 @@
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\bin\Debug\net9.0\TheMakingsOfAProgrammer.exe
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\bin\Debug\net9.0\TheMakingsOfAProgrammer.deps.json
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\bin\Debug\net9.0\TheMakingsOfAProgrammer.runtimeconfig.json
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\bin\Debug\net9.0\TheMakingsOfAProgrammer.dll
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\bin\Debug\net9.0\TheMakingsOfAProgrammer.pdb
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.AssemblyInfoInputs.cache
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.AssemblyInfo.cs
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.dll
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\refint\TheMakingsOfAProgrammer.dll
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.pdb
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\TheMakingsOfAProgrammer.genruntimeconfig.cache
+C:\Users\xaxa\A Player's Guide\TheMakingsOfAProgrammer\obj\Debug\net9.0\ref\TheMakingsOfAProgrammer.dll
