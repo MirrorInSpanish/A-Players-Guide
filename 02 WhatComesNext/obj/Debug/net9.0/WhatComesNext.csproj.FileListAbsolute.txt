@@ -1,0 +1,14 @@
+C:\Users\xaxa\A Player's Guide\WhatComesNext\bin\Debug\net9.0\WhatComesNext.exe
+C:\Users\xaxa\A Player's Guide\WhatComesNext\bin\Debug\net9.0\WhatComesNext.deps.json
+C:\Users\xaxa\A Player's Guide\WhatComesNext\bin\Debug\net9.0\WhatComesNext.runtimeconfig.json
+C:\Users\xaxa\A Player's Guide\WhatComesNext\bin\Debug\net9.0\WhatComesNext.dll
+C:\Users\xaxa\A Player's Guide\WhatComesNext\bin\Debug\net9.0\WhatComesNext.pdb
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.AssemblyInfo.cs
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.dll
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\refint\WhatComesNext.dll
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.pdb
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\WhatComesNext.genruntimeconfig.cache
+C:\Users\xaxa\A Player's Guide\WhatComesNext\obj\Debug\net9.0\ref\WhatComesNext.dll
